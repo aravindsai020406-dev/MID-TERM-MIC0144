@@ -1,0 +1,8 @@
+package MID;
+public class MID {
+    public static void main(String[] args) {
+        System.out.println("Student Name: PS ARAVIND SAI");
+        System.out.println("Register Number: 23MIC0144");
+        System.out.println("Message: Jenkins–GitHub Integration Successful");
+    }
+}
